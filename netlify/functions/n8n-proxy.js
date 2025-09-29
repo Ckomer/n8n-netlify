@@ -13,6 +13,7 @@ const N8N_URL_MAP = {
     'email-add': 'b040e7c6-9ab7-48a2-bb8a-d66f72e63f17',
     'final-submit': '795fa58c-fd0b-4e82-afb0-8cb672136cf8',
     'email-send': '62c2a245-0c0f-4955-a8ba-26b7fd1a3653',
+    'p-grid': '925c0256-c91e-4e21-a2b5-a9e74c4227aa',
 };
 
 // 1. Definicija CORS Headera

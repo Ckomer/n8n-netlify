@@ -16,7 +16,6 @@ const N8N_URL_MAP = {
     'pay-later-email-send': '73b1d5d5-fc77-48f2-867c-7bcfc706c0a6',
     'p-grid': '925c0256-c91e-4e21-a2b5-a9e74c4227aa',
 };
-73b1d5d5-fc77-48f2-867c-7bcfc706c0a6
 // 1. Definicija CORS Headera
 const CORS_HEADERS = {
     // Ovo dozvoljava pristup SVIM domenima. Za veću sigurnost, 
